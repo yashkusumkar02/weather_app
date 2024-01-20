@@ -2,7 +2,7 @@
 
 **Screenshot**
 
-<p align="center">https://github.com/yashkusumkar02/weather_app/assets/87336351/a3777316-fb03-403b-bbad-a4870cd7bbe7
+<p align="center">
 </p>
 
 
