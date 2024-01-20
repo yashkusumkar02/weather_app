@@ -2,7 +2,8 @@
 
 **Screenshot**
 
-<p align="center"><img src="assets/post.png" /></p>
+![post](https://github.com/yashkusumkar02/weather_app/assets/87336351/b2c4acdd-d46c-4bb3-8fda-b275834e87ad)
+
 
 
 **Requirements**
