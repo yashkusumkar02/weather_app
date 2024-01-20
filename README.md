@@ -2,7 +2,8 @@
 
 **Screenshot**
 
-<p align="center">![Purple and Blue App Update Reminder with 3D Mockup of Hand Holding Smartphone in Facebook Post](https://github.com/yashkusumkar02/weather_app/assets/87336351/c9a5b96e-f880-4c44-b893-2fe512200c58)</p>
+<p align="center">https://github.com/yashkusumkar02/weather_app/assets/87336351/a3777316-fb03-403b-bbad-a4870cd7bbe7
+</p>
 
 
 **Requirements**
